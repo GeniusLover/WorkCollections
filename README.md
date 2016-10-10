@@ -9,3 +9,4 @@ a python project to persist a task queue with mongodb
 
 #omgcircle
 a d3.js project to show beatiful circles
+http://www.zjucloud.cn/?/article/104
